@@ -8,6 +8,5 @@ response = requests.get(url)
 html = response.content
 soup = BeautifulSoup(html)
 
-scrape_anything = soup.findAll("h2")
-for header in scrape_anything:
-    print header.text
+body = soup.findAll("body")
+full_text = body[0].text
