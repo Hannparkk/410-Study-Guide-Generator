@@ -5,7 +5,7 @@ def compute_jaccard(sentence1, sentence2):
     1) count the number of members which are shared between both sets
     2) count the total number of members in each set (words_union)
     3) divide the number of shared members (1) by the total number of members (2)
-    4) multiply that number (3) by 100
+    4) multiply that number (3) by 100 !
 
     this percentage tells you how similar the two sets are
     '''
