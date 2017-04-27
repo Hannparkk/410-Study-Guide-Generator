@@ -12,15 +12,7 @@ from lda_reader import LDAReader
 #import tokenizeDict
 
 super_dict = dictionary1()
-# super_dict = {
-# 	"hello": "link1",
-# 	"world": "link2",
-# 	"shiny happy people holding hands": "link5",
-# 	"hello world": "link2",
-# 	"you gotta be": "link3",
-# 	"don't know much about": "link4",
-# 	"science folk": "link4"
-# }
+
 shutil.rmtree('nips00/fwd') #deletes folder
 f = open("nips00/nips00.dat", "w+") 
 for key in super_dict:
