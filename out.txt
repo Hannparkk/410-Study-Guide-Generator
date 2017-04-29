@@ -1,4 +1,5 @@
 ========== Topic 0 ==========
+<<<<<<< HEAD
  air 0.0426909
  fat 0.0294911
  head 0.0282511
@@ -19,6 +20,285 @@
  blowhole 0.0141129
  bone 0.0131541
  modern 0.0130869
+||||||| merged common ancestors
+<<<<<<< HEAD
+ killer 0.0475465
+ [ 0.043294
+ whales 0.0393192
+ ] 0.0384441
+ dolphins 0.0371337
+ males 0.0358583
+ groups 0.034758
+ social 0.0288062
+ pods 0.0257733
+ females 0.0254514
+ captivity 0.0245037
+ wild 0.0174888
+ captive 0.0168344
+ species 0.013964
+ </s> 0.0138983
+ behavior 0.0136381
+ usually 0.0132447
+ sperm 0.0129325
+ male 0.0128261
+ individuals 0.0125964
+||||||| merged common ancestors
+ ( 0.320337
+ ) 0.294445
+ ft 0.0862944
+ m 0.0855731
+ 5 0.0526858
+ 3 0.0368643
+ long 0.0359458
+ short 0.0328275
+ tons 0.0310691
+ finned 0.0302357
+ pilot 0.0262262
+ % 0.024294
+ 6 0.0220724
+ lb 0.02033
+ blue 0.0185383
+ metres 0.0182515
+ 7 0.0181861
+ tonnes 0.0177362
+ 9 0.0175668
+ 1 0.0174784
+=======
+ \ 0.268295
+ ' 0.237729
+ s 0.193933
+ whale 0.046336
+ killer 0.0356919
+ captivity 0.027218
+ calf 0.0170812
+ seaworld 0.0147992
+ died 0.0142786
+ park 0.013864
+ beluga 0.0132253
+ captive 0.0124469
+ born 0.0120584
+ animal 0.0116403
+ named 0.0102287
+ shark 0.0100494
+ orcas 0.00978198
+ museum 0.00970736
+ bryde 0.00970736
+ size 0.00937866
+>>>>>>> 6ec50407660fc85ddbb8eda8725cdb289dbc25e6
+=======
+<<<<<<< HEAD
+ water 0.0429655
+ ice 0.0220403
+ surface 0.0167282
+ this 0.0165247
+ blood 0.0151244
+ waters 0.0149746
+ groups 0.0142955
+ summer 0.0137014
+ oxygen 0.012558
+ belugas 0.0123172
+ skin 0.0121223
+ <s> 0.0114909
+ high 0.0111416
+ blubber 0.0105431
+ feeding 0.01052
+ higher 0.0104208
+ individuals 0.0099742
+ time 0.00997138
+ food 0.00983572
+ generally 0.00946243
+========== Topic 1 ==========
+ " 0.169472
+ fish 0.0602305
+ water 0.0396951
+ prey 0.0345069
+ , 0.0253146
+ feeding 0.0252241
+ feed 0.0224375
+ baleen 0.0203927
+ squid 0.0203282
+ tail 0.0188431
+ mouth 0.0181758
+ whales 0.0176482
+ sounds 0.0143655
+ some 0.0140305
+ - 0.0136568
+ filter 0.0123155
+ name 0.012283
+ krill 0.0113023
+ sharks 0.0105842
+ food 0.0103851
+========== Topic 2 ==========
+ \ 0.308312
+ ' 0.304745
+ s 0.214719
+ whale 0.105269
+ fin 0.0500782
+ " 0.0493897
+ blue 0.030588
+ dorsal 0.0290439
+ beluga 0.0255036
+ size 0.0198869
+ b 0.0181806
+ the 0.0160701
+ humpback 0.014723
+ dolphin 0.0145766
+ orca 0.0126308
+ white 0.0118318
+ : 0.0116036
+ spermaceti 0.0112967
+ bryde 0.0109121
+ minke 0.0105626
+========== Topic 3 ==========
+ killer 0.0582606
+ captivity 0.0409619
+ captive 0.0299756
+ orcas 0.0237789
+ male 0.0211871
+ calf 0.0175248
+ study 0.0165004
+ born 0.0151699
+ pod 0.0149683
+ seaworld 0.0144557
+ died 0.0144557
+ , 0.0144229
+ kept 0.0134055
+ whale 0.0127332
+ marine 0.0114989
+ capture 0.0110134
+ female 0.0106473
+ wild 0.0105914
+ females 0.0103121
+ males 0.0102968
+========== Topic 4 ==========
+ north 0.0578403
+ whaling 0.0521497
+ pacific 0.0457054
+ atlantic 0.0327472
+ [ 0.0288422
+ population 0.0281826
+ southern 0.025628
+ ] 0.0254455
+ islands 0.0251466
+ south 0.0232091
+ coast 0.0218807
+ waters 0.0201123
+ century 0.0200956
+ japan 0.0157609
+ gulf 0.0155665
+ sea 0.0154914
+ northern 0.0142812
+ hunted 0.0140905
+ commercial 0.0140905
+ populations 0.0135107
+========== Topic 5 ==========
+ ( 0.249731
+ ) 0.230148
+ ft 0.0825512
+ m 0.0741759
+ 5 0.0414823
+ males 0.0396072
+ females 0.0377602
+ long 0.0317824
+ tons 0.027524
+ finned 0.0267379
+ 3 0.0263153
+ % 0.0248496
+ short 0.0242293
+ years 0.021471
+ average 0.0211607
+ 6 0.0203605
+ 1 0.0201476
+ lb 0.0173528
+ metres 0.0164159
+ 10 0.0157523
+========== Topic 6 ==========
+ ( 0.115503
+ ) 0.108286
+ toothed 0.029999
+ cetaceans 0.0264869
+ baleen 0.024777
+ modern 0.0237861
+ family 0.0205561
+ ago 0.018604
+ teeth 0.0171196
+ million 0.015898
+ dolphins 0.0153469
+ years 0.0140326
+ right 0.0139223
+ ear 0.0124061
+ whales 0.0123676
+ the 0.0123616
+ middle 0.0109636
+ aquatic 0.0107386
+ skull 0.0102387
+ , 0.0101889
+=======
+<<<<<<< HEAD
+ killer 0.0475465
+ [ 0.043294
+ whales 0.0393192
+ ] 0.0384441
+ dolphins 0.0371337
+ males 0.0358583
+ groups 0.034758
+ social 0.0288062
+ pods 0.0257733
+ females 0.0254514
+ captivity 0.0245037
+ wild 0.0174888
+ captive 0.0168344
+ species 0.013964
+ </s> 0.0138983
+ behavior 0.0136381
+ usually 0.0132447
+ sperm 0.0129325
+ male 0.0128261
+ individuals 0.0125964
+||||||| merged common ancestors
+ ( 0.320337
+ ) 0.294445
+ ft 0.0862944
+ m 0.0855731
+ 5 0.0526858
+ 3 0.0368643
+ long 0.0359458
+ short 0.0328275
+ tons 0.0310691
+ finned 0.0302357
+ pilot 0.0262262
+ % 0.024294
+ 6 0.0220724
+ lb 0.02033
+ blue 0.0185383
+ metres 0.0182515
+ 7 0.0181861
+ tonnes 0.0177362
+ 9 0.0175668
+ 1 0.0174784
+=======
+ \ 0.268295
+ ' 0.237729
+ s 0.193933
+ whale 0.046336
+ killer 0.0356919
+ captivity 0.027218
+ calf 0.0170812
+ seaworld 0.0147992
+ died 0.0142786
+ park 0.013864
+ beluga 0.0132253
+ captive 0.0124469
+ born 0.0120584
+ animal 0.0116403
+ named 0.0102287
+ shark 0.0100494
+ orcas 0.00978198
+ museum 0.00970736
+ bryde 0.00970736
+ size 0.00937866
+>>>>>>> 6ec50407660fc85ddbb8eda8725cdb289dbc25e6
+>>>>>>> 249312811fa123e2e171bdf4d5b96658b910eca4
 ========== Topic 1 ==========
  " 0.444256
  feeding 0.0448092
@@ -188,6 +468,7 @@
  ] 0.0157068
  dolphins 0.0131995
 ========== Topic 9 ==========
+<<<<<<< HEAD
  ( 0.427659
  ) 0.417334
  ft 0.11113
@@ -208,3 +489,133 @@
  8 0.0203848
  kg 0.0195054
  0 0.0192126
+||||||| merged common ancestors
+ ) 0.190984
+ ( 0.174654
+ aquatic 0.0408298
+ dolphins 0.0386651
+ [ 0.0292735
+ ] 0.0290388
+ cetaceans 0.0279656
+ family 0.0278271
+ ago 0.0265481
+ species 0.026466
+ years 0.0254308
+ million 0.0248781
+ sperm 0.0208749
+ : 0.0202084
+ whales 0.0196848
+ toothed 0.0194266
+ modern 0.0178354
+ river 0.0166726
+ baleen 0.0161594
+ mammals 0.0156689
+||||||| merged common ancestors
+ water 0.0697239
+ air 0.0235815
+ , 0.0205351
+ surface 0.0192184
+ tail 0.0188996
+ baleen 0.0188337
+ feeding 0.0167574
+ mouth 0.016608
+ jaw 0.0147953
+ they 0.0142913
+ body 0.0135041
+ mammals 0.0134788
+ like 0.013457
+ head 0.0128311
+ fish 0.0126926
+ teeth 0.0118361
+ food 0.011502
+ flippers 0.011418
+ filter 0.0106977
+ oxygen 0.0103398
+=======
+ whaling 0.0637358
+ population 0.031854
+ century 0.0285156
+ north 0.0267983
+ commercial 0.0255933
+ hunting 0.0226488
+ conservation 0.0203595
+ international 0.0198681
+ endangered 0.0189068
+ pacific 0.0188087
+ species 0.0178375
+ marine 0.0174413
+ hunted 0.0161886
+ catch 0.0146676
+ ( 0.0138461
+ oil 0.0137971
+ whalers 0.0126502
+ ) 0.0114722
+ mammals 0.0114216
+ taken 0.0111798
+>>>>>>> 6ec50407660fc85ddbb8eda8725cdb289dbc25e6
+=======
+ ) 0.190984
+ ( 0.174654
+ aquatic 0.0408298
+ dolphins 0.0386651
+ [ 0.0292735
+ ] 0.0290388
+ cetaceans 0.0279656
+ family 0.0278271
+ ago 0.0265481
+ species 0.026466
+ years 0.0254308
+ million 0.0248781
+ sperm 0.0208749
+ : 0.0202084
+ whales 0.0196848
+ toothed 0.0194266
+ modern 0.0178354
+ river 0.0166726
+ baleen 0.0161594
+ mammals 0.0156689
+||||||| merged common ancestors
+ water 0.0697239
+ air 0.0235815
+ , 0.0205351
+ surface 0.0192184
+ tail 0.0188996
+ baleen 0.0188337
+ feeding 0.0167574
+ mouth 0.016608
+ jaw 0.0147953
+ they 0.0142913
+ body 0.0135041
+ mammals 0.0134788
+ like 0.013457
+ head 0.0128311
+ fish 0.0126926
+ teeth 0.0118361
+ food 0.011502
+ flippers 0.011418
+ filter 0.0106977
+ oxygen 0.0103398
+=======
+ whaling 0.0637358
+ population 0.031854
+ century 0.0285156
+ north 0.0267983
+ commercial 0.0255933
+ hunting 0.0226488
+ conservation 0.0203595
+ international 0.0198681
+ endangered 0.0189068
+ pacific 0.0188087
+ species 0.0178375
+ marine 0.0174413
+ hunted 0.0161886
+ catch 0.0146676
+ ( 0.0138461
+ oil 0.0137971
+ whalers 0.0126502
+ ) 0.0114722
+ mammals 0.0114216
+ taken 0.0111798
+>>>>>>> 6ec50407660fc85ddbb8eda8725cdb289dbc25e6
+>>>>>>> 4ce4f29c2f7f8d837a1cf69163021d6f29e39503
+>>>>>>> 249312811fa123e2e171bdf4d5b96658b910eca4
