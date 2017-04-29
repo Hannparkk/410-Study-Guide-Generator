@@ -23,7 +23,7 @@ def runLDA():
 
 	#run lda
 	o = open("out.txt", "w+")
-	lda = metapy.topics.run_gibbs("config.toml", "lda_model", 7, alpha=0.1, beta=0.1, num_iters=500)
+	lda = metapy.topics.run_gibbs("config.toml", "lda_model", 10, alpha=0.1, beta=0.1, num_iters=500)
 	reader = LDAReader("config.toml", "lda_model") #interpret the lda output
 	for topic_id in range(reader.num_topics()):
 		#print("{} Topic {} {}".format('=' * 10, topic_id, '=' * 10))
