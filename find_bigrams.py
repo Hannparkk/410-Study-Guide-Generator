@@ -17,7 +17,7 @@ def find_bigram_array(array, superdict):
 		a2=[]
 		find_bigram(b, superdict, a1, a2)
 		for x in range(0, 1):
-			num= randint(0, len(a1))
+			num= randint(0, len(a1)-1)
 			print a1[num]
 			print a2[num]
 
