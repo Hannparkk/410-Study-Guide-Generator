@@ -56,7 +56,7 @@
     </div> <!-- /container -->
             
             <p class="lead">
-              <a onclick="doClick()" class="btn btn-lg btn-default">Generate</a>
+              <a onclick="go()" class="btn btn-lg btn-default">Generate</a>
             </p>
 
             <script>
@@ -68,7 +68,7 @@
                   window.location.href = "alternativeURLhere";
               }
 
-              fucntion go() {
+              function go() {
                 $.ajax({
                   type: "POST",
                   url: "/m.py",
