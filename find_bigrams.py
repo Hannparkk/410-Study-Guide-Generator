@@ -20,6 +20,10 @@ def find_bigram_array(array, superdict):
 		num= randint(0, len(a1)-1)
 		print a1[num]
 		print a2[num]
+		
+		num= randint(0, len(a1)-1)
+		print a1[num]
+		print a2[num]
 
 
 	# a=[]
