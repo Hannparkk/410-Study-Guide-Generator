@@ -112,4 +112,5 @@
 ========== doc_id 3 topic distribution ==========
 ŠïþW¡qf?ŠïþW¡qf?)$™Õ;Üž?Ã L£ÉÅî?ŠïþW¡qf?
 ========== doc_id 4 topic distribution ==========
-ÿ“¿{Gé?¡šX:£X?EÀ|+ ?¡šX:£X?I¾H‰]Å?
+ÿ“¿{Gé?¡šX:£X?EÀ|
++ ?¡šX:£X?I¾H‰]Å?
