@@ -1,3 +1,5 @@
+from random import randint
+
 def find_bigram(bigram, superdict, a1, a2):
 	#bigram= bigram.replace("_", " ");
 	#single character words
@@ -14,8 +16,9 @@ def find_bigram_array(array, superdict):
 		a1=[]
 		a2=[]
 		find_bigram(b, superdict, a1, a2)
-		print a1[10]
-		print a2[10]
+		num= randint(0, len(a1))
+		print a1[num]
+		print a2[num]
 
 
 	# a=[]
