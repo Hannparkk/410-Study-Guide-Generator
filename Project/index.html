@@ -61,10 +61,20 @@
 
             <script>
               function doClick() {
-              if ( input|| someOtherCondition)
-                window.location.href = "page2.html";
-              else
-                window.location.href = "alternativeURLhere";
+
+                if ( input|| someOtherCondition)
+                  window.location.href = "page2.html";
+                else
+                  window.location.href = "alternativeURLhere";
+              }
+
+              fucntion go() {
+                $.ajax({
+                  type: "POST",
+                  url: "/m.py",
+                  data: { key: 'val' },
+                  success: doClick
+                  });
               }
             </script>
         </div>
