@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-
+    <script src="jquery.js"></script>
     <title>Welcome Page</title>
 
     <!-- Bootstrap core CSS -->
@@ -56,7 +56,7 @@
     </div> <!-- /container -->
             
             <p class="lead">
-              <a onclick="go()" class="btn btn-lg btn-default">Generate</a>
+              <a onclick="setTimeout(doClick, 4000)" class="btn btn-lg btn-default">Generate</a>
             </p>
 
             <script>
@@ -70,9 +70,8 @@
 
               function go() {
                 $.ajax({
-                  type: "POST",
-                  url: "/m.py",
-                  data: { key: 'val' },
+                  type: "GET",
+                  url: "../m.py",
                   success: doClick
                   });
               }
